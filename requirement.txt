@@ -1,0 +1,2 @@
+brew install hg sdl sdl_image sdl_ttf
+pip3 install --user hg+http://bitbucket.org/pygame/pygame
